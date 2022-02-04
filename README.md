@@ -1,4 +1,4 @@
-# Friday Night Funkin ReylordFX Edition
+# Friday Night Funkin': ReylordFX Edition
 
 ![ReylordFXEdition](https://user-images.githubusercontent.com/40817499/152542723-57c27605-7409-4bc3-b17c-bfe779318851.png)
 
